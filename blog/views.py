@@ -1,3 +1,7 @@
+"""
+Create views for indices, categories, and details.
+"""
+
 from django.shortcuts import render
 from blog.models import Post, Comment
 
