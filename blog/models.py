@@ -1,3 +1,7 @@
+"""
+Create models for categories, posts, and comments.
+"""
+
 from django.db import models
 
 # Create your models here.
