@@ -1,3 +1,7 @@
+"""
+Create url paths for indices, details, and categories
+"""
+
 # blog/urls.py
 
 from django.urls import path
