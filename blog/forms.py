@@ -1,3 +1,7 @@
+"""
+Create form for comments
+"""
+
 # blog/forms.py
 
 from django import forms
